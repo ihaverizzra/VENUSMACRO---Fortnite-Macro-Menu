@@ -1,0 +1,19 @@
+{
+  "keybinds": {
+    "edit_key": "g",
+    "secondary_edit_key": "o",
+    "toggle_button": "t",
+    "weapon_slot": "4",
+    "pickup_key": "e",
+    "pickup_trigger": "f",
+    "wall_button": "p",
+    "wall_trigger": "l"
+  },
+  "script_states": {
+    "spam_macro": false,
+    "auto_pullout": false,
+    "auto_pickup": false,
+    "wall_take": false
+  },
+  "version": "2.0.0"
+}
